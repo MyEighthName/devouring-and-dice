@@ -1,1 +1,1 @@
-Assets folder of Unity project
+Assets folder
